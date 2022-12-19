@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pTs26F4lNodv8c9gr9yw4LGWv/Yiy0yvHRBLiaQ5k/I=",
+  "Source": "MusicDiscover.Api",
+  "BasePath": "_content/MusicDiscover.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
